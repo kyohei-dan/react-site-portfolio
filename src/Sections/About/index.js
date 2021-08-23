@@ -50,19 +50,6 @@ const Main = styled.div`
 	}
 `;
 
-const Title = styled.h1`
-	font-size: 2rem;
-	display: inline-block;
-`;
-
-const CurvedLine = styled.div`
-	width: 7rem;
-	height: 2rem;
-	border: solid 5px var(--purple);
-	border-color: var(--purple) transparent transparent transparent;
-	border-radius: 150%/60px 70px 0 0;
-`;
-
 const Content = styled.div`
 	display: flex;
 	justify-content: space-between;
