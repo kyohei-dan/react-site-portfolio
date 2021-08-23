@@ -125,10 +125,6 @@ const About = () => {
 				<img src={hand} alt="" />
 			</Hand>
 			<Main>
-				<div>
-					<Title>About Us</Title>
-					<CurvedLine />
-				</div>
 				<Content>
 					<Rocket>
 						<img src={rocket} alt="" width="400" height="400" />
